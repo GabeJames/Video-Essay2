@@ -34,4 +34,7 @@ My video essay explores the impact of Major League Baseball’s lack of a salary
 * "man shouting selective focus photography" by Wade Austin Ellis, Free to use under the Unsplash License (https://unsplash.com/photos/man-shouting-selective-focus-photography-zenKzhdBeIU)
 * "a man holds his head while sitting on a sofa" by Nik Shuliahin, Free to use under the Unsplash License (https://unsplash.com/photos/a-man-holds-his-head-while-sitting-on-a-sofa-BuNWp1bL0nc)
 * "baseball game during nighttime" by Ruari Bell, Free to use under the Unsplash License (https://unsplash.com/photos/baseball-game-during-nighttime-IOFOeWNA54M)
+* "Spring Training 3-2019" by Dave Rauenbuehler, Licensed under CC BY-NC 2.0 (https://openverse.org/image/57cf946f-c25d-4e6b-aa28-a76eb1de706d?q=spring+training&p=16)
+* "Random Girls at Phillies Spring Training Game" by Darryl Kenyon Licensed under CC BY-NC-ND 2.0 (https://www.flickr.com/photos/70323761@N00/2317843002)
+
 
