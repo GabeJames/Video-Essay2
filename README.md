@@ -7,6 +7,12 @@ My video essay explores the impact of Major League Baseball’s lack of a salary
 
 ### Credits
 
+##### Sources
+* "MLB World Series Winners" ESPN (https://www.espn.com/mlb/worldseries/history/winners)
+* "MLB Attendance Report-2024" ESPN (https://www.espn.com/mlb/attendance/_/year/2024)
+* "To Win A World Series, Teams Almost Always Have to Spend" by Kyle Glaser, Baseball America, 01/03/2024 (https://www.baseballamerica.com/stories/to-win-a-world-series-teams-almost-always-have-to-spend/)
+* "Mets topped spending again in '24; total MLB payouts pass $5.1B" by Associated Press, ESPN, 03/05/2025 (https://www.espn.com/mlb/story/_/id/44118589/mets-topped-spending-again-24-total-mlb-payouts-pass-51b)
+
 ##### Assets 
 * "Take me Out to the Ball Game" by stomachache, Licensed under CC 0 (https://freesound.org/people/stomachache/sounds/274515/)
 * "100 us dollar bill" by Giorgio Trovato, Free to use under the Unsplash License (https://unsplash.com/photos/100-us-dollar-bill-BRl69uNXr7g)
