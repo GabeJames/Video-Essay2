@@ -2,11 +2,12 @@
  Video Essay Project for CDM Class
 
 ### Summary 
-My video essay explores the impact of Major League Baseball’s lack of a salary cap on competitive balance and fan engagement. Unlike the NFL and NBA, MLB allows teams to spend freely, resulting in a significant financial gap between large-market and small-market teams. Wealthy franchises like the Yankees and Dodgers consistently outspend their competition, allowing them to sign top talent and maintain dominance. Meanwhile, smaller teams struggle to retain star players and build long-term success. I will use footage from games, free agent signings, along with charts that exemplify the difference between bottom spending teams and top spending teams. 
+My video essay explores the impact of Major League Baseball’s lack of a salary cap on competitive balance and fan engagement. Unlike the NFL and NBA, MLB allows teams to spend freely, resulting in a significant financial gap between large-market and small-market teams. Wealthy franchises like the Yankees and Dodgers consistently outspend their competition, allowing them to sign top talent and maintain dominance. Meanwhile, smaller teams struggle to retain star players and build long-term success. I will use footage from games, and free-agent signings, along with charts that exemplify the difference between bottom-spending teams and top-spending teams. 
 
 
 ### Credits
 
+##### Assets 
 * "Take me Out to the Ball Game" by stomachache, Licensed under CC 0 (https://freesound.org/people/stomachache/sounds/274515/)
 * "100 us dollar bill" by Giorgio Trovato, Free to use under the Unsplash License (https://unsplash.com/photos/100-us-dollar-bill-BRl69uNXr7g)
 * "baseball players playing on field during daytime" by Chanan Greenblatt Free to use under the Unsplash License (https://unsplash.com/photos/baseball-players-playing-on-field-during-daytime-wNQ4lFafIfI)
@@ -27,3 +28,9 @@ My video essay explores the impact of Major League Baseball’s lack of a salary
 * "man shouting selective focus photography" by Wade Austin Ellis, Free to use under the Unsplash License (https://unsplash.com/photos/man-shouting-selective-focus-photography-zenKzhdBeIU)
 * "a man holds his head while sitting on a sofa" by Nik Shuliahin, Free to use under the Unsplash License (https://unsplash.com/photos/a-man-holds-his-head-while-sitting-on-a-sofa-BuNWp1bL0nc)
 * "baseball game during nighttime" by Ruari Bell, Free to use under the Unsplash License (https://unsplash.com/photos/baseball-game-during-nighttime-IOFOeWNA54M)
+
+##### Sources
+* "MLB World Series Winners" ESPN (https://www.espn.com/mlb/worldseries/history/winners)
+* "MLB Attendance Report-2024" ESPN (https://www.espn.com/mlb/attendance/_/year/2024)
+* "To Win A World Series, Teams Almost Always Have to Spend" by Kyle Glaser, Baseball America, 01/03/2024 (https://www.baseballamerica.com/stories/to-win-a-world-series-teams-almost-always-have-to-spend/)
+* "Mets topped spending again in '24; total MLB payouts pass $5.1B" by Associated Press, ESPN, 03/05/2025 (https://www.espn.com/mlb/story/_/id/44118589/mets-topped-spending-again-24-total-mlb-payouts-pass-51b)
