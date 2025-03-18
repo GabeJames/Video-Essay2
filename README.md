@@ -35,8 +35,3 @@ My video essay explores the impact of Major League Baseball’s lack of a salary
 * "a man holds his head while sitting on a sofa" by Nik Shuliahin, Free to use under the Unsplash License (https://unsplash.com/photos/a-man-holds-his-head-while-sitting-on-a-sofa-BuNWp1bL0nc)
 * "baseball game during nighttime" by Ruari Bell, Free to use under the Unsplash License (https://unsplash.com/photos/baseball-game-during-nighttime-IOFOeWNA54M)
 
-##### Sources
-* "MLB World Series Winners" ESPN (https://www.espn.com/mlb/worldseries/history/winners)
-* "MLB Attendance Report-2024" ESPN (https://www.espn.com/mlb/attendance/_/year/2024)
-* "To Win A World Series, Teams Almost Always Have to Spend" by Kyle Glaser, Baseball America, 01/03/2024 (https://www.baseballamerica.com/stories/to-win-a-world-series-teams-almost-always-have-to-spend/)
-* "Mets topped spending again in '24; total MLB payouts pass $5.1B" by Associated Press, ESPN, 03/05/2025 (https://www.espn.com/mlb/story/_/id/44118589/mets-topped-spending-again-24-total-mlb-payouts-pass-51b)
